@@ -199,8 +199,7 @@
 87.md - Durkin M. S. и др. Advanced Parental Age and the Risk of Autism Spectrum Disorder // American Journal of Epidemiology. 2008. Т. 168. № 11. С. 1268–1276.
 
 
-# The course of Grigorenko (можете использовать для проверки некоторой информации, необязательно!):
-
+# The course of Grigorenko:
 88.md - Расстройства аутистического спектра. Вводный курс. Учебное пособие для студентов. Григоренко Е.Л. — М.: Практика, 2018. — 280 с.
 
 
