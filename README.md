@@ -2,7 +2,7 @@
 Данный репозеторий содержит полный список (92) литературы для написания теоретической главы.
 Мы рекомендуем использовать все источники, которые здесь имеются, так как каждый из них дополняет друг друга, важно использовать их ВСЕ.
 
-# ASD and (self)perception (в этом разделе много информации, поэтому стоит несколько авторов упоминать в 1-2 предложениях и рассказывать о их идеях, сравнивать их, лучшее всего, посмотреть и использовать в документе не менее 20 работ):
+# ASD and (self)perception: 
 
 1.md - Pellicano E., Burr D. When the world becomes ‘too real’: a Bayesian explanation of autistic perception // Trends in Cognitive Sciences. 2012. Т. 16. № 10. С. 504–510.
 
@@ -134,7 +134,7 @@
 59.md - Widjaja E. S. и др. The Utility of the Five Factor Model of Personality as an Organizing Framework for Autism-Related Traits // Assessment. 2025.
 
 
-# ASD and the mental health model (здесь мало источников, старайтесь ссылаться на всех авторов, особенно англоязычных):
+# ASD and the mental health model:
 
 60.md - Baron-Cohen S. Are autistic children “Behaviorists”? An examination of their mental-physical and appearance-reality distinctions // J Autism Dev Disord. 1989. Т. 19. № 4. С. 579–600.
 
@@ -149,7 +149,7 @@
 65.md - Дубяга Е. В., Мещеряков Б. Г. Имплицитная теория разума: краткий обзор // Психологический журнал Международного университета природы, общества и человека «Дубна». 2010. Т. 1. С. 1–9.
 
 
-# EMB-ASD theory and gender differences (упомяните всех авторов!):
+# EMB-ASD theory and gender differences:
 
 66.md - Lai M.-C. и др. A Behavioral Comparison of Male and Female Adults with High Functioning Autism Spectrum Conditions // PLoS ONE. 2011. Т. 6. № 6. С. e20835.
 
